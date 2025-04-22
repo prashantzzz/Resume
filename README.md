@@ -2,10 +2,10 @@
 ![image](https://github.com/user-attachments/assets/8bc00bac-b7a8-45d6-9274-c5d9a432a609)
 
 ## Paste it in overleaf's new project to see the editable resume
-
 %-------------------------
 % Resume in Latex
 % Author : Prashant
+% Based off of: https://github.com/sb2nov/resume
 % License : MIT
 %------------------------
 
@@ -153,7 +153,7 @@
 
 \begin{center}
     {\Huge \scshape Prashant} \\ \vspace{1pt}
-    Software Developer \\ \vspace{1pt}
+    Software Developer with experience in full-stack development, and databases. Skilled in .NET Core, Angular, React, and SQL. Delivered impactful projects and internships. Pursuing B.Tech in IT at VIT Vellore. \\ \vspace{2pt}
     \small \href{mailto:prashant.2021@vitstudent.ac.in}\small 
     \href{https://prashantzz.vercel.app/}{\raisebox{-0.2\height}\faShareSquare\ \underline{Portfolio}} ~
     \href{tel:#}{ \raisebox{-0.1\height}\faPhone\ \underline{+91-8744969975} ~} 
@@ -161,7 +161,7 @@
     \href{https://linkedin.com/in/prashantzz}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{Linkedin}}  ~
     \href{https://github.com/prashantzzz}{\raisebox{-0.2\height}\faGithub\ \underline{Github}} 
 \end{center}
-\vspace{0.5mm}
+\vspace{0.2mm}
 
 
 %-----------EDUCATION-----------
@@ -181,6 +181,8 @@
     {Secondary (X) $|$ Kendriya Vidyalaya Narela, Delhi $|$ \textbf{87\%}}{2019 – 2020}
     {}{}
 \resumeSubHeadingListEnd
+
+\vspace{-15pt}
 %-----------EXPERIENCE-----------
 \section{WORK EXPERIENCE}
   \resumeSubHeadingListStart
