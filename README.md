@@ -1,5 +1,6 @@
-# Resume
+# Resume - 90 ATS
 ## Paste it in overleaf's new project to see the editable resume
+
 %-------------------------
 % Resume in Latex
 % Author : Prashant
@@ -152,11 +153,12 @@
 \begin{center}
     {\Huge \scshape Prashant} \\ \vspace{1pt}
     Software Developer \\ \vspace{1pt}
-    \small \href{mailto:prashant.2021@vitstudent.ac.in}\small \href{tel:#}{ \raisebox{-0.1\height}\faPhone\ \underline{+91-8744969975} ~} 
+    \small \href{mailto:prashant.2021@vitstudent.ac.in}\small 
+    \href{https://prashantzz.vercel.app/}{\raisebox{-0.2\height}\faShareSquare\ \underline{Portfolio}} ~
+    \href{tel:#}{ \raisebox{-0.1\height}\faPhone\ \underline{+91-8744969975} ~} 
     \href{mailto:prashant2003prashant@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{prashant2003prashant@gmail.com}} ~ 
     \href{https://linkedin.com/in/prashantzz}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{Linkedin}}  ~
-    \href{https://github.com/prashantzzz}{\raisebox{-0.2\height}\faGithub\ \underline{Github}} ~
-    \href{https://prashantzz.vercel.app/}{\raisebox{-0.2\height}\faShareSquare\ \underline{Portfolio}} 
+    \href{https://github.com/prashantzzz}{\raisebox{-0.2\height}\faGithub\ \underline{Github}} 
 \end{center}
 \vspace{0.5mm}
 
@@ -182,28 +184,28 @@
 \section{WORK EXPERIENCE}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Chubb \href{#}{\raisebox{-0.1\height}\faExternalLink}}{Jan 2025 - Present} 
+      {Chubb \href{https://www.linkedin.com/posts/prashantzz_newjob-techintern-activity-7286705344293085185-dC1Q}{\raisebox{-0.1\height}\faExternalLink}}{Jan 2025 - Present} 
       {\underline{Tech Intern}}{On Site}
       \resumeItemListStart
         \resumeItem{\normalsize{Worked on .NET Core, SQL gaining real world experience and problems, Built APIs, Changed Encryption techniques, and SEO optimization, solving bugs, improved loading and efficiency of legacy applications.}}
       \resumeItemListEnd  
   
     \resumeSubheading
-      {Salesforce $|$ PwC CTDP \href{#}{\raisebox{-0.1\height}\faExternalLink}}{May 2024 - June 2024} 
+      {Salesforce $|$ PwC CTDP \href{https://trailhead.salesforce.com/}{\raisebox{-0.1\height}\faExternalLink}}{May 2024 - June 2024} 
       {\underline{Trainee}}{Remote}
       \resumeItemListStart
         \resumeItem{\normalsize{Completed the CTDP program by PwC, gaining comprehensive knowledge of Salesforce software, including Object Management and App Builder, configuration and Setup, Automation, including data import/export.}}
       \resumeItemListEnd  
   
     \resumeSubheading
-      {SAIL India \href{#}{\raisebox{-0.1\height}\faExternalLink}}{Sept 2023 - Oct 2023} 
+      {SAIL India \href{https://www.linkedin.com/posts/prashantzz_newbeginnings-internship-sail-activity-7106663626261852162-n-TU}{\raisebox{-0.1\height}\faExternalLink}}{Sept 2023 - Oct 2023} 
       {\underline{Project Intern}}{On Site}
       \resumeItemListStart
         \resumeItem{\normalsize{E-commerce site on WordPress with WooCommerce, integrating a chatbot, Razorpay for payments, and SEO optimization, cutting load time by 20\% for better search engine rankings.}}
       \resumeItemListEnd  
   
     \resumeSubheading
-      {GeM Tech Paras \href{#}{\raisebox{-0.1\height}\faExternalLink}}{Jan 2023 - Dec 2023} 
+      {GeM Tech Paras \href{https://www.linkedin.com/posts/prashantzz_internship-internshipextension-careerdevelopment-activity-7035116175877427200-YzU3}{\raisebox{-0.1\height}\faExternalLink}}{Jan 2023 - Dec 2023} 
       {\underline{UI/UX Intern}}{Remote}
       \resumeItemListStart
         \resumeItem{\normalsize{Designed UI/UX in designing and development team, generated thousands of revenue from clients.}}
@@ -228,15 +230,15 @@
     \resumeSubHeadingListStart
               
         \resumeProjectHeading
-          {\href{#}{\textbf{\large{\underline{MealPlanner}}} \href{\#}{\raisebox{-0.1\height}\faExternalLink}} $|$ \large{\underline{Angular+TS, .NET 8, SQL Server, JWT Auth, RBAC, REST API, Tailwind}}}{2024}\\
+          {\href{#}{\textbf{\large{\underline{MealPlanner}}} \href{https://prmealplanner.netlify.app/}{\raisebox{-0.1\height}\faExternalLink}} $|$ \large{\underline{Angular+TS, .NET 8, SQL Server, JWT Auth, RBAC, REST API, Tailwind}}}{2024}\\
           \resumeItemListStart
-            \resumeItem {\normalsize{Full-Stack Development: Built a meal-planning app with Angular & .NET, implementing JWT auth, role-based access, and dynamic shopping lists.}}
-            \resumeItem {\normalsize{Feature Implementation: Developed recipe management, dietary tracking, and analytics with REST API integration.}}
+            \resumeItem {\normalsize{Full-Stack Development: Built a meal-planning app with Angular & .NET, implementing JWT auth, role-based access (Admin, Nutritionist, Customer), and dynamic shopping lists.}}
+            \resumeItem {\normalsize{Feature Implementation: Developed recipe management, dietary tracking, and automated report generation for nutrition analytics with REST API integration.}}
           \resumeItemListEnd 
           \vspace{-13pt}
       
       \resumeProjectHeading
-          {\href{#}{\textbf{\large{\underline{SteelStore For SAIL}}} \href{#}{\raisebox{-0.1\height}\faExternalLink}} $|$ \large{\underline{WooCommerce, PHP, elementor, Google Auth, Razorpay}}}{2023}\\
+          {\href{#}{\textbf{\large{\underline{SteelStore For SAIL}}} \href{https://steelstore.rf.gd/}{\raisebox{-0.1\height}\faExternalLink}} $|$ \large{\underline{WooCommerce, PHP, elementor, Google Auth, Razorpay}}}{2023}\\
           \resumeItemListStart
             \resumeItem {\normalsize{WordPress E-commerce site, improved load time by 30\% using caching and compression.}}
             \resumeItem {\normalsize{Integrated Google Auth, a chatbot, Razorpay for payments, and SEO optimization.}}
@@ -246,13 +248,13 @@
 \resumeProjectHeading
           {\textbf{\large{\underline{Gen AI Projects}}} $|$ \large{\underline{NodeJs, Gemini API, HTML/CSS/JS, Tailwind, TesseractJs, AceJs}}}{2024}\\
           \resumeItemListStart
-            \resumeItem {\normalsize{\href{#}{\textbf{GenZdev} {\raisebox{-0.2\height}\faExternalLink}} - Generative frontend development with live preview, 50\% faster than manual.}}
-            \resumeItem {\normalsize{\href{#}{\textbf{CureAI} {\raisebox{-0.2\height}\faExternalLink}} - AI powered healthcare with image recognition diagnosis, accuracy: 90\%.}}
+            \resumeItem {\normalsize{\href{https://genz-dev.netlify.app/}{\textbf{GenZdev} {\raisebox{-0.2\height}\faExternalLink}} - Generative frontend development with live preview, 50\% faster than manual.}}
+            \resumeItem {\normalsize{\href{https://cureai.onrender.com/}{\textbf{CureAI} {\raisebox{-0.2\height}\faExternalLink}} - AI powered healthcare with image recognition diagnosis, accuracy: 90\%.}}
           \resumeItemListEnd 
           \vspace{-13pt}
       
       \resumeProjectHeading
-          {\href{#}{\textbf{\large{\underline{GUI Applications}}} \href{#}{\raisebox{-0.1\height}\faExternalLink}} $|$ \large{\underline{Python, Tkinter, Google/Wolfram/Akinator Search APIs, Manual NLTK}}}{2022}\\
+          {\href{#}{\textbf{\large{\underline{GUI Applications}}} \href{https://github.com/prashantzzz/pAssist-Chatbot/releases/tag/v3.0}{\raisebox{-0.1\height}\faExternalLink}} $|$ \large{\underline{Python, Tkinter, Google/Wolfram/Akinator Search APIs, Manual NLTK}}}{2022}\\
           \resumeItemListStart
             \resumeItem {\normalsize{pAssist - Developed a voice based assistant windows app for daily tasks, saving time by 40\%.}}
             \resumeItem {\normalsize{Software testing tool - Image supported tool to automate GUI testing, reducing manual testing efforts.}}
