@@ -5,7 +5,6 @@
 %-------------------------
 % Resume in Latex
 % Author : Prashant
-% Based off of: https://github.com/sb2nov/resume
 % License : MIT
 %------------------------
 
