@@ -1,4 +1,6 @@
 # Resume - 90 ATS
+![image](https://github.com/user-attachments/assets/63253b51-bb7b-470b-a92b-7f234a239a96)
+
 ## Paste it in overleaf's new project to see the editable resume
 
 %-------------------------
